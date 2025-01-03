@@ -8,7 +8,7 @@ char burnDate[] = __DATE__;                 // 編譯日期
 char burnTime[] = __TIME__;                 // 編譯時間
 
 // WiFi 設定
-const char* ssid = "";
+const char* ssid = "--replace your wifi name";
 const char* password = "";
 
 // MQTT 設定
